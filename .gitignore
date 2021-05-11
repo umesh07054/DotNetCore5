@@ -3,3 +3,5 @@
 ################################################################################
 
 /DotNetCore_MVC/obj
+/.vs
+/DotNetCore_MVC/.vs/DotNetCore_MVC/v16
